@@ -46,4 +46,5 @@ while not game_over:
 
 
 client_socket.close()
+
 server_socket.close()
