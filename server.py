@@ -31,6 +31,7 @@ while not game_over:
             valid_word = False
             break
 
+
     if valid_word:
        print("Server's turn")
        server_input = input("Write a word that ends with the last two letters of the given word: ")
